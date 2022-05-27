@@ -1,0 +1,18 @@
+{
+  "test_v1_del_vedio_fileblock.py::Test_delFile_Block::()::test_defFile_Block": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11384]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11392]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11396]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11429]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11430]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11431]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11432]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11435]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[liveId0]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[liveId1]": true,
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[liveId2]": true,
+  "test_v1_streamException.py::Test_Select_Banner::()::test_select_banner": true,
+  "test_v1_vedio_fileblock.py::Test_File_Block::()::test1_file_block": true,
+  "test_v1_video_returnUpload.py::Test_Return_Upload::()::test_return_upload[0C6A9C777D74495B9C36DE70CB76C6AE]": true
+}

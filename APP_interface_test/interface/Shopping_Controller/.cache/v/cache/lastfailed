@@ -1,0 +1,6 @@
+{
+  "test_v1_shopping_delete.py::test_api_v1_shopping_delete[cart_id0]": true,
+  "test_v1_shopping_list.py::test_api_v1_shopping_list": true,
+  "test_v1_shopping_modify.py::test_api_v1_shopping_list[998]": true,
+  "test_v1_shopping_total.py::test_api_v1_shopping_total": true
+}

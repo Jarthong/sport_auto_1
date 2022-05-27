@@ -1,0 +1,4 @@
+{
+  "test_v1_getMsgGroup.py::Test_GetMsgGroup::()": true,
+  "test_v1_getMsgListByGroup.py::Test_GetMsgListByGroup": true
+}

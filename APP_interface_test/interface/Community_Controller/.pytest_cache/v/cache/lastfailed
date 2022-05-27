@@ -1,0 +1,10 @@
+{
+  "test_v1_checkCircleName.py::Test_CheckCircleName::()::test_checkcirclename[\\u7bee\\u7403-jartho]": true,
+  "test_v1_circleDisabled.py::Test_Disbaled::()::test_disabled[1-seedp542916-18485]": true,
+  "test_v1_circleDisabled.py::Test_Disbaled::()::test_disabled[1-seedp542916-None]": true,
+  "test_v1_circleDisabled.py::Test_Disbaled::()::test_disabled[2-seedp542916-18485]": true,
+  "test_v1_circleDisabled.py::Test_Disbaled::()::test_disabled[2-seedp542916-None]": true,
+  "test_v1_delFeed.py::Test_delFeed::()::test_delFeed[18485-15037]": true,
+  "test_v1_joinCircle.py::Test_joinCircle::()::test_joinCircle[18449]": true,
+  "test_v1_joinCircle.py::Test_joinCircle::()::test_joinCircle[18497]": true
+}

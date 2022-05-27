@@ -1,0 +1,19 @@
+[
+  "test_v1_ip_cate.py::test_v1_ip_cate[1]",
+  "test_v1_ip_cate.py::test_v1_ip_cate[2]",
+  "test_v1_ip_cate.py::test_v1_ip_cate[3]",
+  "test_v1_ip_cate.py::test_v1_ip_cate[4]",
+  "test_v1_ip_cate.py::test_v1_ip_cate[5]",
+  "test_v1_ip_cate.py::test_v1_ip_cate[6]",
+  "test_v1_ip_cate.py::test_v1_ip_cate[7]",
+  "test_v1_ip_cate.py::test_v1_ip_cate[8]",
+  "test_v1_ip_cate.py::test_v1_ip_cate[9]",
+  "test_v1_ip_cate_home.py::test_v1_ip_cate_home",
+  "test_v1_ip_getUserServer.py::test_v1_ip_getUserServer[None]",
+  "test_v1_ip_getUserServer.py::test_v1_ip_getUserServer[seedp50]",
+  "test_v1_ip_getUserServer.py::test_v1_ip_getUserServer[hhly]",
+  "test_v1_ip_recom.py::test_v1_ip_recom[10]",
+  "test_v1_ip_recom.py::test_v1_ip_recom[20]",
+  "test_v1_ip_recom.py::test_v1_ip_recom[50]",
+  "test_v1_ip_recom.py::test_v1_ip_recom[100]"
+]

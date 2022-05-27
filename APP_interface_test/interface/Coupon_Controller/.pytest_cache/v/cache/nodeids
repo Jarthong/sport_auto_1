@@ -1,0 +1,13 @@
+[
+  "test_v1_availableList.py::Test_availableList::()::test_availablelist[100]",
+  "test_v1_availableList.py::Test_availableList::()::test_availablelist[None]",
+  "test_v1_canReceiveList.py::Test_canReceiveList::()::test_canreceivelist",
+  "test_v1_couponDetail.py::Test_CouponDetail::()::test_coupondetail[528]",
+  "test_v1_couponDetail.py::Test_CouponDetail::()::test_coupondetail[None]",
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[uU3169113E1ZL-2]",
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[cK823865681UO-4]",
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[OvC34941D1i2-5]",
+  "test_v1_couponmyList.py::Test_CouponMylist::()::test_couponmylist",
+  "test_v1_couponreceive.py::Test_CouponReceive::()::test_couponreceive[41]",
+  "test_v1_couponreceive.py::Test_CouponReceive::()::test_couponreceive[None]"
+]

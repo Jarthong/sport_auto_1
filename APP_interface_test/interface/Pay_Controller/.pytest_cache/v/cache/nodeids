@@ -1,0 +1,6 @@
+[
+  "test_v1_getPayResult.py::Test_GetPayResult::()::test_getpayresult[27280409489833984-seedp10]",
+  "test_v1_getPayResult.py::Test_GetPayResult::()::test_getpayresult[22002049695350784-seedp14100]",
+  "test_v1_goodsOrder_pay.py::Test_GoodsOrder_Pay::()::test_goodsorder_pay[27022150700892160]",
+  "test_v1_toPay.py::Test_toPay::()::test_topay[27135401126526976]"
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/工作/139script/.idea/139script.iml" filepath="E:/工作/139script/.idea/139script.iml" />
+      <module fileurl="file://E:\sport_auto_test\.idea\ecshop_auto_test.iml" filepath="E:\sport_auto_test\.idea\ecshop_auto_test.iml" />
+      <module fileurl="file://E:/工作/launchTime/.idea/launchTime.iml" filepath="E:/工作/launchTime/.idea/launchTime.iml" />
+      <module fileurl="file://E:/selenium_20170626/.idea/selenium_20170626.iml" filepath="E:/selenium_20170626/.idea/selenium_20170626.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sport_auto_test.iml" filepath="$PROJECT_DIR$/.idea/sport_auto_test.iml" />
+    </modules>
+  </component>
+</project>

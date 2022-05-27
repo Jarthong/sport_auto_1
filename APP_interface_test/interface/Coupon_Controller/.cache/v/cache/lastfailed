@@ -1,0 +1,16 @@
+{
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test2_couponexchange2[exchangeCode0]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test2_couponexchange[exchangeCode0]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[1L5154578d1YE]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[1L5325031d1YE-1]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[8986OvC28Di1-5]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[MaP3169501LN-4]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[MaP3458201LN]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[OvC166884D1i2]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[OvC394959D1i2]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[OvC40523D1i2]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[sBU250660m1pb]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[zrj319796Z1AM]": true,
+  "test_v1_couponreceive.py::Test_CouponReceive": true,
+  "test_v1_couponreceive.py::Test_CouponReceive::()::test_couponreceive": true
+}

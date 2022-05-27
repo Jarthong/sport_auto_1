@@ -1,0 +1,9 @@
+[
+  "test_serviceCard_listBusType.py::Test_Service_ListBusType::()::test_service_listbustype",
+  "test_serviceCard_listServiceCard.py::Test_Service_ListServiceCard::()::test_service_listservicecard[0-1]",
+  "test_serviceCard_listServiceCard.py::Test_Service_ListServiceCard::()::test_service_listservicecard[0-3]",
+  "test_serviceCard_listServiceCard.py::Test_Service_ListServiceCard::()::test_service_listservicecard[0-5]",
+  "test_serviceCard_listServiceCard.py::Test_Service_ListServiceCard::()::test_service_listservicecard[0-$%^]",
+  "test_serviceCard_listStatus.py::Test_Service_ListStatus::()::test_service_liststatus",
+  "test_v1_listBusType.py::Test_listBusType::()::test_listbustype"
+]

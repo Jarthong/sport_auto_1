@@ -1,0 +1,20 @@
+[
+  "test_api_v1_guest_childrenCategoryList.py::test_api_v1_guest_childrenCategoryList[V11]",
+  "test_api_v1_guest_childrenCategoryList.py::test_api_v1_guest_childrenCategoryList[V12]",
+  "test_api_v1_guest_childrenCategoryList.py::test_api_v1_guest_childrenCategoryList[V18]",
+  "test_api_v1_guest_goodsList.py::test_api_v1_guest_goodsList[10-V11]",
+  "test_api_v1_guest_goodsList.py::test_api_v1_guest_goodsList[10-V12]",
+  "test_api_v1_guest_goodsList.py::test_api_v1_guest_goodsList[10-V18]",
+  "test_api_v1_guest_goodsList.py::test_api_v1_guest_goodsList[50-V11]",
+  "test_api_v1_guest_goodsList.py::test_api_v1_guest_goodsList[50-V12]",
+  "test_api_v1_guest_goodsList.py::test_api_v1_guest_goodsList[50-V18]",
+  "test_api_v1_guest_goodsList.py::test_api_v1_guest_goodsList[100-V11]",
+  "test_api_v1_guest_goodsList.py::test_api_v1_guest_goodsList[100-V12]",
+  "test_api_v1_guest_goodsList.py::test_api_v1_guest_goodsList[100-V18]",
+  "test_v1_group_goods_goodsTemplateInfo.py::test_api_v1_group_goods_goodsTemplateInfo[V11]",
+  "test_v1_group_goods_goodsTemplateInfo.py::test_api_v1_group_goods_goodsTemplateInfo[V12]",
+  "test_v1_group_goods_goodsTemplateInfo.py::test_api_v1_group_goods_goodsTemplateInfo[V18]",
+  "test_v1_guest_goods.py::test_api_v1_guest_goodsList[V11]",
+  "test_v1_guest_goods.py::test_api_v1_guest_goodsList[V12]",
+  "test_v1_guest_goods.py::test_api_v1_guest_goodsList[V18]"
+]

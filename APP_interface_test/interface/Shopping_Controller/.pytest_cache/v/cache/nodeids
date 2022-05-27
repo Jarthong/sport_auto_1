@@ -1,0 +1,12 @@
+[
+  "test_v1_shopping_add.py::test_api_v1_shopping_add[asfsffsfwe-1]",
+  "test_v1_shopping_add.py::test_api_v1_shopping_add[V113001_20171103155017_384_20171103155017_618-1]",
+  "test_v1_shopping_add.py::test_api_v1_shopping_add[V123003_20170927142727_1800_20170927142727_3584-1]",
+  "test_v1_shopping_add.py::test_api_v1_shopping_add[V181001_20170921144030_1527_20170921144030_2799-1]",
+  "test_v1_shopping_delete.py::test_api_v1_shopping_delete[cart_id0]",
+  "test_v1_shopping_delete.py::test_api_v1_shopping_delete[456425]",
+  "test_v1_shopping_list.py::test_api_v1_shopping_list",
+  "test_v1_shopping_modify.py::test_api_v1_shopping_list[998]",
+  "test_v1_shopping_modify.py::test_api_v1_shopping_list[None]",
+  "test_v1_shopping_total.py::test_api_v1_shopping_total"
+]

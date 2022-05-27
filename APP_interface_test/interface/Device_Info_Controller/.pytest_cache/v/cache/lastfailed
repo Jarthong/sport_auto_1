@@ -1,0 +1,12 @@
+{
+  "test_v1_user__guest_ballResume_selectByUserId.py::test_v1_user__guest_ballResume_selectByUserId[10]": true,
+  "test_v1_user__guest_ballResume_selectByUserId.py::test_v1_user__guest_ballResume_selectByUserId[20]": true,
+  "test_v1_user__guest_ballResume_selectByUserId.py::test_v1_user__guest_ballResume_selectByUserId[50]": true,
+  "test_v1_user__guest_ballResume_selectByUserId.py::test_v1_user__guest_ballResume_selectByUserId[5]": true,
+  "test_v1_user_getResByRole.py::test_v1_user_getResByRole": true,
+  "test_v1_user_getRole.py::test_v1_user_getRole": true,
+  "test_v1_user_icon.py::test_v1_user_icon[34413]": true,
+  "test_v1_user_updateLocal.py::test_v1_user_updateLocal[84-74]": true,
+  "test_v1_user_updateLocal.py::test_v1_user_updateLocal[84-None]": true,
+  "test_v1_user_updateLocal.py::test_v1_user_updateLocal[None-74]": true
+}

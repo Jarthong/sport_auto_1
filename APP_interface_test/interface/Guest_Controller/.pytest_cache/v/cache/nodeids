@@ -1,0 +1,20 @@
+[
+  "test_v1_adList.py::Test_AdList::()::test_adlist[21-banner]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[21-screen]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[21-startPage]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[22-banner]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[22-screen]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[22-startPage]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[23-banner]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[23-screen]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[23-startPage]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[25-banner]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[25-screen]",
+  "test_v1_adList.py::Test_AdList::()::test_adlist[25-startPage]",
+  "test_v1_channelContentList.py::Test_ChannelContentList::()::test_channelContentlist[Espn000010]",
+  "test_v1_channelContentList.py::Test_ChannelContentList::()::test_channelContentlist[None]",
+  "test_v1_espnList.py::Test_EspnList::()::test_espnlist",
+  "test_v1_getIpAuthService.py::Test_GetAuthService::()::test_getauthservice",
+  "test_v1_goodsCategory.py::Test_GoodsCategory::()::test_goodscategory",
+  "test_v1_tagList.py::Test_TagList::()::test_taglist"
+]

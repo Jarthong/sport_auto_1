@@ -1,0 +1,16 @@
+{
+  "fail_test_v1_feed.py::test_v1_feed[1111]": true,
+  "fail_test_v1_feed.py::test_v1_feed[3400]": true,
+  "fail_test_v1_feed.py::test_v1_feed[3404]": true,
+  "fail_test_v1_feed.py::test_v1_feed[3411]": true,
+  "fail_test_v1_feed.py::test_v1_feed[3412]": true,
+  "fail_test_v1_feed.py::test_v1_feed[3414]": true,
+  "fail_test_v1_feed.py::test_v1_feed[feedId0]": true,
+  "test_v1_user_comment_digg_delete.py::test_v1_user_comment_digg[100-0]": true,
+  "test_v1_user_comment_digg_post.py::test_v1_user_comment_digg[commentId0-0]": true,
+  "test_v1_user_feed_digg_detele.py::test_v1_user_feed_digg[3399]": true,
+  "test_v1_user_feed_digg_detele.py::test_v1_user_feed_digg[3406]": true,
+  "test_v1_user_feed_digg_detele.py::test_v1_user_feed_digg[feedId0]": true,
+  "test_v1_user_feed_digg_post.py::test_v1_user_feed_digg[feedId0]": true,
+  "test_v1_user_feed_update.py::test_v1_user_feed_update[14714-9711-1]": true
+}

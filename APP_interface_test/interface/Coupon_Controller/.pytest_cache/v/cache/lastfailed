@@ -1,0 +1,6 @@
+{
+  "test_v1_couponDetail.py::Test_CouponDetail::()::test_coupondetail[530]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[VCM298713H1qU-4]": true,
+  "test_v1_couponExchange.py::Test_CouponExchange::()::test_couponexchange[nfs1132655C1xP-2]": true,
+  "test_v1_couponreceive.py::Test_CouponReceive": true
+}

@@ -1,0 +1,17 @@
+[
+  "test_v1_del_vedio_fileblock.py::Test_delFile_Block::()::test_defFile_Block",
+  "test_v1_del_vedio_fileblock.py::Test_File_Block::()::test1_file_block",
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11556]",
+  "test_v1_post_liveRadio.py::Test_Live_Radio::()::test_live_radio[11445]",
+  "test_v1_put_liveRadio.py::Test_Live_Radio::()::test_live_radio[1]",
+  "test_v1_selectBanner.py::Test_Select_Banner::()::test_select_banner",
+  "test_v1_vedio_fileblock.py::Test_File_Block::()::test1_file_block",
+  "test_v1_vedio_playVideo.py::Test_Play_Vedio::()::test_play_vedio[seedp10]",
+  "test_v1_vedio_playVideo.py::Test_Play_Vedio::()::test_play_vedio[^&*^7]",
+  "test_v1_vedio_playVideo.py::Test_Play_Vedio::()::test_play_vedio[None]",
+  "test_v1_video_returnUpload.py::Test_File_Block::()::test1_file_block",
+  "test_v1_video_returnUpload.py::Test_Return_Upload::()::test_return_upload",
+  "test_v1_video_uploadcate.py::Test_Upload_Cate::()::test_upload_cate[seedp10]",
+  "test_v1_video_uploadcate.py::Test_Upload_Cate::()::test_upload_cate[^&*^7]",
+  "test_v1_video_uploadcate.py::Test_Upload_Cate::()::test_upload_cate[None]"
+]

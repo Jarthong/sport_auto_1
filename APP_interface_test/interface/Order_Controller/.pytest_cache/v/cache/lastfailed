@@ -1,0 +1,9 @@
+{
+  "test_v1_GoodsOrderCreate.py::Test_GoodsOrderCreate::()::test_GoodsOrdercreate2[V113006_20170830170429_552_20170830170429_864-1]": true,
+  "test_v1_GoodsOrderCreate.py::Test_GoodsOrderCreate::()::test_GoodsOrdercreate2[V3130064233465563_7193-4]": true,
+  "test_v1_GoodsOrderCreate.py::Test_GoodsOrderCreate::()::test_GoodsOrdercreate[V1130014227195375_6793-4]": true,
+  "test_v1_GoodsOrderCreate.py::Test_GoodsOrderCreate::()::test_GoodsOrdercreate[V113006_20170830153741_541_20170830153741_840-1]": true,
+  "test_v1_goodsOrder_cancel.py::Test_GoodsOrderCancer::()::test_goodsOrdercancel[V3130064233665579_7220]": true,
+  "test_v1_goodsOrder_logisticsInfo.py::Test_GoodsOrder_LogisticsInfo::()": true,
+  "test_v1_goodsOrder_toConfirm.py::Test_GoodsOrder_toConfirm": true
+}

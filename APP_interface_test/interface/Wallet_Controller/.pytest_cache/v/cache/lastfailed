@@ -1,0 +1,5 @@
+{
+  "test_v1_bankinfo.py::Test_BankInfo::()::test_bankinfo[5194127552476138]": true,
+  "test_v1_transPwd_validate.py::Test_TransPwd_Validate::()": true,
+  "test_v1_withdrawBankCard_preBind.py::Test_withdrawBankCard_PreBind": true
+}

@@ -1,0 +1,14 @@
+[
+  "test_v1_bankinfo.py::Test_BankInfo::()::test_bankinfo[5229647552465912]",
+  "test_v1_bankinfo.py::Test_BankInfo::()::test_bankinfo[None]",
+  "test_v1_bankinfo.py::Test_BankInfo::()::test_bankinfo[47362433824]",
+  "test_v1_bindPlatform_list.py::Test_BindPlatform_List::()::test_bindplatform_list",
+  "test_v1_transPwd_modify.py::Test_TransPwd_Modify::()::test_transpwd_modify[fecc8f7214a1dd231184d802ef55d394-fecc8f7214a1dd231184d802ef55d394]",
+  "test_v1_transPwd_modify.py::Test_TransPwd_Modify::()::test_transpwd_modify[fecc8f7214a1dd231184d802ef55d394-123456]",
+  "test_v1_transPwd_modify.py::Test_TransPwd_Modify::()::test_transpwd_modify[fecc8f7214a1dd231184d802ef55d394-None]",
+  "test_v1_transPwd_set.py::Test_TransPwd_Set::()::test_transpwd_set[fecc8f7214a1dd231184d802ef55d394]",
+  "test_v1_transPwd_validate.py::Test_TransPwd_Validate::()::test_transpwd_validate[fecc8f7214a1dd231184d802ef55d394]",
+  "test_v1_transPwd_validate.py::Test_TransPwd_Validate::()::test_transpwd_validate[1545154]",
+  "test_v1_walletInfo.py::Test_WalletInfo::()::test_walletinfo",
+  "test_v1_withdrawBankCard_preBind.py::Test_withdrawBankCard_PreBind::()::test_withdrawbankcard_prebind"
+]

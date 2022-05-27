@@ -1,0 +1,10 @@
+{
+  "test_v1_addArticleComment.py::Test_AddArticleComment::()::test_AddArticleComment[None-68474]": true,
+  "test_v1_addArticleComment.py::Test_AddArticleComment::()::test_AddArticleComment[autotestdp\\u8d5b\\u4e8b\\u7cbe\\u5f69\\uff0c\\u4e0d\\u5bb9\\u9519\\u8fc7-68474]": true,
+  "test_v1_addArticleComment.py::Test_AddArticleComment::()::test_AddArticleComment[autotestdp\\u8d5b\\u4e8b\\u7cbe\\u5f69\\uff0c\\u4e0d\\u5bb9\\u9519\\u8fc7-None]": true,
+  "test_v1_delArticleComment.py::Test_DelArticleComment::()::test_DelArticleComment[15222]": true,
+  "test_v1_getArticleByUser.py::Test_GetArticleByUser::()::test_getarticlebyuser[\\u4e2d\\u56fd\\u65b0\\u95fb\\u7f51]": true,
+  "test_v1_getArticleInfo.py::test_api_article_getArticleInfo[68425]": true,
+  "test_v1_getContentImage.py::Test_GetContentImage::()": true,
+  "test_v1_recommendArticle.py::Test_Recommend_Article": true
+}

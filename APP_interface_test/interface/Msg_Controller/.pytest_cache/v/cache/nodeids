@@ -1,0 +1,12 @@
+[
+  "test_v1_getMsgGroup.py::Test_GetMsgGroup::()::test_getmsgroup",
+  "test_v1_getMsgListByGroup.py::Test_GetMsgListByGroup::()::test_getmslistbygroup[1004]",
+  "test_v1_getMsgListByGroup.py::Test_GetMsgListByGroup::()::test_getmslistbygroup[None]",
+  "test_v1_msgOperating.py::Test_MsgOperating::()::test_MsgOperating[2-320160]",
+  "test_v1_msgOperating.py::Test_MsgOperating::()::test_MsgOperating[3-320160]",
+  "test_v1_msgOperating.py::Test_MsgOperating::()::test_MsgOperating[4-320160]",
+  "test_v1_msgOperating.py::Test_MsgOperating::()::test_MsgOperating[5-320160]",
+  "test_v1_msgOperating.py::Test_MsgOperating::()::test_MsgOperating[6-320160]",
+  "test_v1_updateMsgStatus.py::Test_UpdateMsgStatus::()::test_updatemsgstatus[1248711]",
+  "test_v1_updateMsgStatus.py::Test_UpdateMsgStatus::()::test_updatemsgstatus[None]"
+]
